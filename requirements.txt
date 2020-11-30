@@ -1,1 +1,4 @@
+# masscan must be installed in the guest
+python-masscan-0.1.1
+python-nmap-0.6.1
 docopt-0.6.2
